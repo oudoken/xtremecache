@@ -5,7 +5,7 @@ https://github.com/SimoneS93/xtremecache
 and
 https://github.com/pauld-codes/xtremecache
 
-TEsted and working in prestashop 1.6.1.4.
+Tested and working in prestashop 1.6.1.4.
 
 Check that controller get correctly installed in:
 YOUR_ROOT/override/classes/controller/FrontController.php
