@@ -10,6 +10,8 @@ Tested and working in prestashop 1.6.1.4.
 Check that controller get correctly installed in:
 YOUR_ROOT/override/classes/controller/FrontController.php
 
+I will add in future a configuration panel 
+
 *******************************************************
 
 This is modified and tweaked version for PrestaShop 1.7 & PrestaShop 1.6 caching module, based on SimoneS93.
