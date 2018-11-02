@@ -1,3 +1,17 @@
+A mixed modified version of ExtremeCache originally by Simone Salerno.
+
+Mixed version from:
+https://github.com/SimoneS93/xtremecache
+and
+https://github.com/pauld-codes/xtremecache
+
+TEsted and working in prestashop 1.6.1.4.
+
+Check that controller get correctly installed in:
+YOUR_ROOT/override/classes/controller/FrontController.php
+
+*******************************************************
+
 This is modified and tweaked version for PrestaShop 1.7 & PrestaShop 1.6 caching module, based on SimoneS93.
 - ability to generate same cache for mobile and desktop (usefull for people using responsive templates and serving same content for mobile and desktop)
 - ability to detect maintenance mode (must be enabled in config.php) and do not serve cached pages when we do maintenance
